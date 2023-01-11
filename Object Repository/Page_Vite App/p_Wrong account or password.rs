@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Wrong account or password</name>
+   <tag></tag>
+   <elementGuidId>93815ed4-85aa-4a61-b34d-43e9e10340b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.warning</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e35cdbd0-d9ca-4485-8cef-5660c05ba27e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>warning</value>
+      <webElementGuid>e354a964-7e95-4041-b234-826ddce5aae9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wrong account or password</value>
+      <webElementGuid>f88b842e-33c9-432c-9274-7c9f0f4ed127</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;h-screen flex flex-row items-center&quot;]/div[@class=&quot;max-w-default mx-auto my-auto grid grid-cols-12 gap-x-6 flex flex-row&quot;]/div[@class=&quot;col-span-4 col-start-9 flex flex-col items-center&quot;]/div[@class=&quot;container flex flex-col&quot;]/p[@class=&quot;warning&quot;]</value>
+      <webElementGuid>0f4a46a8-57a0-4c09-b762-63be62c5be5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/p</value>
+      <webElementGuid>8f778b68-a6d4-4ce0-be5b-f5860620c8fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember me'])[1]/following::p[1]</value>
+      <webElementGuid>90da4154-aaf4-4c6c-810c-8d6fffc84182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Let’s Connect Through The Questions!'])[1]/following::p[5]</value>
+      <webElementGuid>bd6098ec-bac0-4590-a41a-8edf11320101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::p[1]</value>
+      <webElementGuid>6af0544d-eec9-45c2-ac53-322e683b6a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::p[2]</value>
+      <webElementGuid>3c1af2ef-b179-49c2-b328-ea9286d6a5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wrong account or password']/parent::*</value>
+      <webElementGuid>9de2f2ab-5701-4896-8a1b-d40911d53485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/p</value>
+      <webElementGuid>02dcb251-c5bc-4851-aebf-9470f357c547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Wrong account or password' or . = 'Wrong account or password')]</value>
+      <webElementGuid>5a27996b-0e39-45aa-919b-84a4c87b2e40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
